@@ -1,0 +1,9 @@
+.collection-card {
+  height: 350px;
+  min-height: 350px;
+}
+
+.collection-img {
+  height: 250px;
+  min-height: 250px;
+}

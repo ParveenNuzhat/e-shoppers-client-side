@@ -1,0 +1,9 @@
+.category-card {
+  height: 320px;
+  min-height: 320px;
+}
+
+.category-img {
+  height: 200px;
+  min-height: 200px;
+}

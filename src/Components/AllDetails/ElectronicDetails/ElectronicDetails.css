@@ -1,0 +1,6 @@
+.detail-container {
+  background-image: url("../../../Images//background.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: relative;
+}
